@@ -69,6 +69,7 @@
             // labelInfAboutUsers
             // 
             labelInfAboutUsers.Dock = DockStyle.Fill;
+            labelInfAboutUsers.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
             labelInfAboutUsers.Location = new Point(10, 10);
             labelInfAboutUsers.Name = "labelInfAboutUsers";
             labelInfAboutUsers.Size = new Size(664, 491);
